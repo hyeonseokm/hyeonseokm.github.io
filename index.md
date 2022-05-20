@@ -4,28 +4,28 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="chanjunpark.jpg">
-Hi! I am currently working as an AI Research Engineer at <a href="https://www.upstage.ai/">Upstage</a>. Also I am a MS/Ph.D student in the Department of Computer Science and Engineering at Korea University. My advisor is Prof. <a href="https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&amp;hl=ko&amp;oi=ao">Heuiseok Lim</a>, and I am part of the <a href="http://nlp.korea.ac.kr/">Natural Language Processing & Artificial Intelligence Lab</a>. I am the founder and leader of <a href="http://kunmt.org/">KU-NMT Group</a>. I received Naver Ph.D. Fellowship 2021. See CV for more information.
+<img class="profile-picture" src="hsmoon3.jpg">
+Hi! I am a MS/Ph.D student in the Department of Computer Science and Engineering at Korea University. My advisor is Prof. <a href="https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&amp;hl=ko&amp;oi=ao">Heuiseok Lim</a>, and I am part of the <a href="http://nlp.korea.ac.kr/">Natural Language Processing & Artificial Intelligence Lab</a>. I am member of <a href="http://kunmt.org/">KU-NMT Group</a>. 
 
  <!-- This is a jekyll based resume template. You can find the full source code on [GitHub] --> 
  <!-- (https://github.com/bk2dcradle/researcher) -->
 
 ## Research Interest
-Neural Machine Translation, Domain Specialized Neural Machine Translation, Ancient Korean Neural Machine Translation, Simultaneous Speech Translation, Automatic Post Editing, Quality Estimation, Korean Spelling Correction, Grammar Error Correction, Speech Recognition Post-Processor, Dialogue Summarization, AI for Accessibility, AI for Education, Language Resource and Evaluation, Semantic Search and Information Retrieval
+Neural Machine Translation, Parallel Corpus Filtering, Domain Specialized Neural Machine Translation, Simultaneous Speech Translation, Automatic Post Editing, Quality Estimation, Korean Spelling Correction, Language Resource and Evaluation
 
 
 ## Professional Experience
-2022.03 - Now: Upstage AI Research Engineer <br>
-2018.09 - 2019.07: SYSTRAN Research Engineer <br>
-2018.06 - 2018.08: SYSTRAN Research Engineer Intern 
+2021.03 - Now: Korea University Ph.D. Student of Computer Science
+2015.03 - 2021.02: Korea University Bachelor of Science and Engineering
 
+<!-- 
 ## Academic Services
 Virtual Social Chair: COLING 2022 <br>
-Program committee (Reviewer): ACL 2022, ACL 2022-Insights, NAACL 2022, NAACL 2022-Industry Track  <br>
+Program committee (Reviewer): ACL 2022, ACL 2022-Insights, NAACL 2022, NAACL 2022-Industry Track  <br> -->
 
 ## Publications
 ### Preprints 
-1. [Empirical study on BlenderBot 2.0’s Errors Analysis in terms of Model, Data and User-Centric Approach](https://arxiv.org/abs/2201.03239) <br>
+<!-- 1. [Empirical study on BlenderBot 2.0’s Errors Analysis in terms of Model, Data and User-Centric Approach](https://arxiv.org/abs/2201.03239) <br>
 Jungseob Lee, Suhyune Son, Midan Shim, Yujin Kim, **Chanjun Park**, Heuiseok Lim **(Equal Contribution(First Co-Author))** <br>
 *arxiv, 2022*<br>
 
@@ -39,10 +39,10 @@ Hyeonseok Moon, **Chanjun Park**, Sugyeong Eo, Jaehyung Seo, SeungJun Lee, Heuis
 
 4. [PicTalky: Augmentative and Alternative Communication Software for Language Developmental Disabilities](https://arxiv.org/abs/2109.12941) <br>
 **Chanjun Park**, Yoonna Jang, Seolhwa Lee, Jaehyung Seo, Kisu Yang, Heuiseok Lim<br>
-*arxiv, 2021*<br>
+*arxiv, 2021*<br> -->
 
 ### Top Conference (Main / Workshop)
-1. A Dog Is Passing Over The Jet? A Text-Generation Dataset for Korean Commonsense Reasoning and Evaluation <br>
+<!-- 1. A Dog Is Passing Over The Jet? A Text-Generation Dataset for Korean Commonsense Reasoning and Evaluation <br>
 Jaehyung Seo, Seounghoon Lee, **Chanjun Park**, Yoonna Jang, Hyeonseok Moon, Sugyeong Eo, Seonmin Koo, Heuiseok Lim <br>
 *NAACL 2022 - Findings, 2022*<br>
 
@@ -96,10 +96,10 @@ Sugyeong Eo, **Chanjun Park**, Jaehyung Seo, Hyeonseok Moon, Heuiseok Lim **(Equ
 
 13. [Should we find another model?: Improving Neural Machine Translation Performance with ONE-Piece Tokenization Method without Model Modification](https://aclanthology.org/2021.naacl-industry.13/)<br>
 **Chanjun Park**, Sugyeong Eo, Hyeonseok Moon, Heuiseok Lim<br>
-*NAACL-HLT 2021 Industry Track, 2021- (Poster/Oral presentation)*<br>
+*NAACL-HLT 2021 Industry Track, 2021- (Poster/Oral presentation)*<br> -->
 
 ### International Journal (SCI/SCIE)
-1. Word-level Quality Estimation for Korean-English Neural Machine Translation <br>
+<!-- 1. Word-level Quality Estimation for Korean-English Neural Machine Translation <br>
 Sugyeong Eo, **Chanjun Park**, Hyeonseok Moon, Jaehyung Seo, Heuiseok Lim **(Equal Contribution(First Co-Author))** <br>
 *IEEE Access, 2022*<br>
 
@@ -153,22 +153,22 @@ Chanhee Lee, Kisu Yang, Taesun Whang, **Chanjun Park**, Andrew Matteson, Heuiseo
 
 14. [Neural Spelling Correction: Translating Incorrect sentences to Correct sentences for Multimedia](https://link.springer.com/article/10.1007/s11042-020-09148-2) <br>
 **Chanjun Park**, Kuekyeng Kim, YeongWookYang, Minho Kang, Heuiseok Lim <br>
-*Multimedia Tools and Applications, 2020*<br>
+*Multimedia Tools and Applications, 2020*<br> -->
 
-### International & Domestic Conference
-Domestic Journal (KCI): 20 papers, Domestic Conference: 32 papers, International Conference: 23 papers
+<!-- ### International & Domestic Conference
+Domestic Journal (KCI): 20 papers, Domestic Conference: 32 papers, International Conference: 23 papers -->
 
-### Book Chapters
+<!-- ### Book Chapters
 1. [Natural Langugae Processing Bible](https://www.aladin.co.kr/shop/wproduct.aspx?partner=rss&ISBN=K412637214)<br>
 HeuiSeok Lim, **Korea University NLP&AI Lab** <br>
-*Human Science*
+*Human Science* -->
 
 ### International Patents
-1. METHOD OF BUILDING TRAINING DATA OF MACHINE TRANSLATION <br>
-HeuiSeok Lim, **Chanjun Park**<br>
+<!-- 1. METHOD OF BUILDING TRAINING DATA OF MACHINE TRANSLATION <br>
+HeuiSeok Lim, **Chanjun Park**<br> -->
 
 ### Domestic Patents
-1. DEVICE AND METHOD FOR GENERATING OF TRAINING DATA FOR QUALITY ESTIMATION IN MACHINE TRANSLATION <br>
+<!-- 1. DEVICE AND METHOD FOR GENERATING OF TRAINING DATA FOR QUALITY ESTIMATION IN MACHINE TRANSLATION <br>
 HeuiSeok Lim, Sugyeong Eo, **Chanjun Park**, Hyeonseok Moon <br>
 
 2. APPRATUS FOR CORPUS PROCESSING, APPARATUS AND METHOD AND MATHINE TRANSLATION <br>
@@ -199,16 +199,16 @@ HeuiSeok Lim, **Chanjun Park**, Yanghee Kim <br>
 HeuiSeok Lim, **Chanjun Park** <br>
 
 11. Device and method for correcting Korean spelling <br>
-HeuiSeok Lim, **Chanjun Park** <br>
+HeuiSeok Lim, **Chanjun Park** <br> -->
 
 ## Teaching
-1. [Introduction to Natural Language Processing in Big Data (BDC101)](https://github.com/Parkchanjun/KU-NLP-2020-1), Teaching Assistant, Korea Univ. (Autumn 2021) <br>
+<!-- 1. [Introduction to Natural Language Processing in Big Data (BDC101)](https://github.com/Parkchanjun/KU-NLP-2020-1), Teaching Assistant, Korea Univ. (Autumn 2021) <br>
 2. [Introduction to Natural Language Processing in Big Data (BDC101)](https://github.com/Parkchanjun/KU-NLP-2020-1), Head Teaching Assistant, Korea Univ. (Autumn 2020) <br>
 3. [Natural Language Processing for Digital Finance Engineering (DFE610)](https://github.com/Parkchanjun/KU-NLP-2020-1), Head Teaching Assistant, Korea Univ. (Autumn 2020) <br>
 4. [Natural Language Processing (COSE461)](https://github.com/Parkchanjun/KU-NLP-2020-1), Teaching Assistant, Korea Univ. (Spring 2020) <br>
-5. [Artificial Intelligence and Natural Language Processing (DFC615)](https://github.com/Parkchanjun/KU-NLP-2020-1), Teaching Assistant, Korea Univ. (Spring 2020) <br>
+5. [Artificial Intelligence and Natural Language Processing (DFC615)](https://github.com/Parkchanjun/KU-NLP-2020-1), Teaching Assistant, Korea Univ. (Spring 2020) <br> -->
 
-## Honors & Awards
+<!-- ## Honors & Awards
 
 Year | Award
 :-----:|-------
@@ -226,9 +226,9 @@ Year | Award
 2017.06 | Bit Computer Excellence Award (President Award), Bit Computer
 2017.12 | Scholarship for academic excellence, Sooyoungro Church
 2016.12 | Scholarship for academic excellence, Sooyoungro Church
-2015.03 | Full Scholarship, BUFS
+2015.03 | Full Scholarship, BUFS -->
 
-## Invited Talk
+<!-- ## Invited Talk
 
 Year | Place | Contents
 :-----:|-------|-------
@@ -239,6 +239,6 @@ Year | Place | Contents
 2020.01 | Dongguk University |  [A.I - NLP - MT for Liberal Arts](https://github.com/Parkchanjun/Dongguk_AI_NLP_MachineTranslation)
 2019.10-2019.11 | SKC  |  [Text Preprocessing, Machine Translation, Language Embedding](https://github.com/Parkchanjun/SKC_MachineTranslation)
 2019.08 | SK T Academy  |  [Machine Translation for everyone](https://www.youtube.com/watch?v=3WvA-sFiI6w&list=PL9mhQYIlKEhcyCTvJq6tGJ3_B6hRjLm2N)
-2019.08 | NAVER |  [Machine Translation for everyone](https://tv.naver.com/v/9906991)
+2019.08 | NAVER |  [Machine Translation for everyone](https://tv.naver.com/v/9906991) -->
 
 <br><br><br>

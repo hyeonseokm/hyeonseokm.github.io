@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="hsmoon3.jpg">
+<img class="profile-picture" src="hsmoon_.jpg">
 Hi! I am a MS/Ph.D student in the Department of Computer Science and Engineering at Korea University. My advisor is Prof. <a href="https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&amp;hl=ko&amp;oi=ao">Heuiseok Lim</a>, and I am part of the <a href="http://nlp.korea.ac.kr/">Natural Language Processing & Artificial Intelligence Lab</a>. I am member of <a href="http://kunmt.org/">KU-NMT Group</a>. 
 
  <!-- This is a jekyll based resume template. You can find the full source code on [GitHub] --> 
@@ -15,7 +15,7 @@ Neural Machine Translation, Parallel Corpus Filtering, Domain Specialized Neural
 
 
 ## Professional Experience
-2021.03 - Now: Korea University Ph.D. Student of Computer Science
+2021.03 - Now: Korea University Ph.D. Student of Computer Science <br>
 2015.03 - 2021.02: Korea University Bachelor of Science and Engineering
 
 <!-- 
